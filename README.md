@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #README
  
 # Model
@@ -33,3 +34,6 @@ user => devise.gemfile (gemfile - 누군가가 이미 만들어놓은 파일)
 ------------------------------------------------------------------------
  
 # CSS / JS : Bootstrap CDN
+=======
+# may8
+>>>>>>> 8f8fea8df37c9dc83fc9753ce476de581a046650
